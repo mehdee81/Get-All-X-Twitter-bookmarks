@@ -93,7 +93,7 @@ By adjusting these parameters, you can optimize the script for your specific int
 3. Download ChromeDriver and ensure it's in your system's PATH.
 4. Run the script:
    ```bash
-   python "Bookmark Crawler.py"
+   python "Get Bookmarks.py"
    ```
 5. Enter your X (Twitter) username and password when prompted.
 6. The script will collect all your bookmarks and save them to `bookmarks.csv`.
