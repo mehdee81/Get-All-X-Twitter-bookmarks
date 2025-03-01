@@ -82,6 +82,7 @@ By adjusting these parameters, you can optimize the script for your specific int
 ## Requirements
 - Python 3.x
 - Selenium (`pip install selenium`)
+- Google Chrome
 - This code does not require ChromeDriver. However, if you encounter a ChromeDriver-related error, download and install it before running the code.
 
 ## Usage
